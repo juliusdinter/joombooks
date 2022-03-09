@@ -18,6 +18,9 @@ Technologies:
 - <p><a href="https://getbootstrap.com/">Bootstrap 5</a></p>
 - <p><a href="https://www.mysql.com/">MySQL</a></p>
 - <p><a href="https://getcomposer.org/">Composer</a></p>
+- <p><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a></p>
+- <p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a></p>
+- <p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></p>
 
 Dependencies:
 - <a href="https://github.com/karlohrvacic/jumkabooks/network/dependencies">Github List</a><br>
