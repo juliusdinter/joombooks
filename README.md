@@ -2,7 +2,11 @@
 
 <img src="https://travis-ci.com/karlohrvacic/joombooks.svg?branch=master">
 
-Helps connecting Independent libraries with their users. 
+Helps connecting Independent libraries with their users.
+
+
+Video showing how app works:
+<a href="https://youtu.be/vdN95ucu77A">JoomBooks app video</a>
 
 
 <a style="text-decoration-line: line-through;" href="https://joombooks.karlo.codes">Live version</a>
